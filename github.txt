@@ -10,3 +10,4 @@
 2)执行命令 git add github.txt
 3)执行命令 git commit -m "github使用文档"
 4)执行命令 git push origin master
+5)文件修改后重新执行2,3,4流程
