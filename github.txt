@@ -4,6 +4,7 @@
 3)执行命令 git config --global user.name "welinklijia"
 4)执行命令 git config --global user.email "lijia041@126.com"
 5)克隆远程仓库 git clone https://github.com/welinklijia/learn.git
+6)在本地电脑创建一个目录，通过git init命令把这个目录变成Git可以管理的仓库
 二.添加文件到本地仓库
 1)在本地仓库创建文件
 2)执行命令 git add github.txt
